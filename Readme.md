@@ -9,7 +9,7 @@ La tercera parte trata sobre el tratamiento para test, todo lo que se hizo en tr
 y por último se aplica SVM para predecir los datos de test.
 No se realiza cross validation debido a que el tiempo de ejecución es muy alto.
 Los documentos se listan en orden a continuación:
-1. [Analisis exploratorio.ipynb](Analisis exploratorio.ipynb)
+1. [Analisis exploratorio.ipynb](AnalisisExploratorio.ipynb)
 2. [Preprocesamiento.ipynb](Preprocesamiento.ipynb)
 3. [Modelado.ipynb](Modelado.ipynb)
 4. [Conclusiones.md](Conclusiones.md)
